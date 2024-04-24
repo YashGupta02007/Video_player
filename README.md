@@ -10,9 +10,9 @@ Prerequisites
     You can install OpenCV using pip: pip install opencv-python
 
 Usage
- 1)Clone or download this repository to your local machine.
- 2)Navigate to the directory containing the script and the video file you want to play.
- 3)Run the script using Python, passing the video file as an argument: python video_player.py 
+ 1) Clone or download this repository to your local machine.
+ 2) Navigate to the directory containing the script and the video file you want to play.
+ 3) Run the script using Python, passing the video file as an argument: python video_player.py 
  4) Replace "python_project.mp4" with the path to your video file.
  5) The script will display the video frames in a window. Press the 'q' key to exit.
 
